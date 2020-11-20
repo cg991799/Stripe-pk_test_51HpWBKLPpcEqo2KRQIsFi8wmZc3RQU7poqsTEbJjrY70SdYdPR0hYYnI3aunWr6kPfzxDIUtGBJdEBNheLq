@@ -1,0 +1,2 @@
+# Stripe-pk_test_51HpWBKLPpcEqo2KRQIsFi8wmZc3RQU7poqsTEbJjrY70SdYdPR0hYYnI3aunWr6kPfzxDIUtGBJdEBNheLq
+Global
